@@ -11,7 +11,6 @@ body{
   background: #E6E6E6;
 }
 
-
 .Title{
   color: white;
   font-size: 45px;
@@ -24,6 +23,7 @@ body{
 .kougi_table{
   margin: auto;
   background-color: white;
+  border: 3px solid #2E2E2E;
 }
 
 .day,#time{
@@ -32,9 +32,9 @@ body{
   color: #2E2E2E;
 }
 
-.kougi_table,td,th{
-  border: 2px solid;
+td,th{
   text-align: center;
+  border: 2px solid #2E2E2E;
 }
 
 .kougi_table,td,th{
@@ -56,7 +56,7 @@ a{
 }
 
 .Lang{
-  background-color: #F6CEF5;
+  background-color: #F8E0F1;
 }
 
 .Shugaku{

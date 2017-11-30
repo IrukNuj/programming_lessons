@@ -1,0 +1,96 @@
+header{
+  background-color: #04B4AE;
+  height: 80px;
+  margin-bottom: 50px;
+}
+
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  background: #E6E6E6;
+}
+
+
+.Title{
+  color: white;
+  font-size: 45px;
+  padding-top: 5px;
+  padding-left: 20px;
+  bottom: 0;
+  font-weight: 600;
+}
+
+.kougi_table{
+  margin: auto;
+  background-color: white;
+}
+
+.day,#time{
+  font-weight: 600;
+  font-size: 25px;
+  color: #2E2E2E;
+}
+
+.kougi_table,td,th{
+  border: 2px solid;
+  text-align: center;
+}
+
+.kougi_table,td,th{
+  table-layout: fixed;
+  height: 100px;
+}
+
+a{
+  padding: 30px
+};
+
+.time{
+  width: 30px;
+}
+
+
+.Math{
+  background-color: #A9F5F2;
+}
+
+.Lang{
+  background-color: #F6CEF5;
+}
+
+.Shugaku{
+  background-color: #F2F2F2;
+}
+
+.Risan{
+  background-color: #D0A9F5;
+}
+
+.Eng{
+  background-color: #F2F5A9;
+}
+
+.PD{
+  background-color: #F78181;
+}
+
+.Sport{
+  background-color: #F5D0A9;
+}
+
+.Cirkit{
+  background-color: #A9F5BC;
+}
+
+.Senkei{
+  background-color: #819FF7;
+}
+
+.Plog{
+  background-color: #6E6E6E;
+}
+
+.Com{
+  background-color: #BDBDBD;
+}

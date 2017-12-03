@@ -8,7 +8,10 @@ body{
   margin-top: 0px;
   margin-left: 0px;
   margin-right: 0px;
-  background: #E6E6E6;
+  background: #D8D8D8;
+  /*background-image: url(無題.png);
+  画像を背景にしてもらうこともできます*/
+
 }
 
 .Title{
@@ -20,9 +23,31 @@ body{
   font-weight: 600;
 }
 
+.List{
+  color: white;
+  font-size: 25px;
+  float: right;
+  padding-top: 20px;
+  padding-right: 20px;
+  bottom: 0;
+  font-weight: 600;
+  border: white 1px;
+}
+
+.Login{
+  color: white;
+  font-size: 25px;
+  float: right;
+  padding-top: 15px;
+  padding-right: 15px;
+  bottom: 0;
+  font-weight: 600;
+}
+
 .kougi_table{
   margin: auto;
-  background-color: white;
+  background-color: #FAFAFA;
+  /*背景コメントアウトで表を透明化できます*/
   border: 3px solid #2E2E2E;
 }
 
@@ -44,7 +69,7 @@ td,th{
 
 a{
   padding: 30px
-};
+}
 
 .time{
   width: 30px;

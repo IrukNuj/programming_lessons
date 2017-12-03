@@ -8,7 +8,16 @@ m = []
   m[i] = gets.chomp.to_i
 end
 
-puts "倍にすると"
+puts "10倍にすると"
 p m.map!{|x|x*10}
 
 #　コイツもやっぱりわからないので聞こう...
+
+p gets.to_i.times.map{
+  a = gets.to_i * 10
+  if a > 60
+    a
+  else
+
+  end
+}
